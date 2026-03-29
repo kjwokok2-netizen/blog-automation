@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[2026-03-29] 글로벌 증시 이슈 및 기업 분석 리포트"
-date: 2026-03-29 15:00:35 +0900
+date: 2026-03-29 19:05:01 +0900
 categories: [Market-Report]
 ---
 
